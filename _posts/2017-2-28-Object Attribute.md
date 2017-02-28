@@ -8,3 +8,10 @@ object attribute
 not only to name famil- iar objects, but also: to report unusual aspects of a familiar object ：“spotty dog”, not just “dog” 
 
 Image segments – basic visual representation 
+
+Read material：  
+1.A. Farhadi, I. Endres, D. Hoiem, and D. Forsyth. Describing objects by their attributes.In CVPR，2009.  
+ 
+2.V. Ferrari and A. Zisserman. Learning visual attributes. In NIPS, 2007. 
+
+
