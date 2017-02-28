@@ -1,4 +1,7 @@
-#Object Arribute 
+---
+layout: post
+
+title:Object Arribute 
 ---
 object attribute 
 
